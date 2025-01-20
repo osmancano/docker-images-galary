@@ -21,3 +21,5 @@ UNSPLASH_KEY=2MJvApIkV13hfg2LmQlneILfHoJ2ttlzSdPKefGOyKM
 ```
 
 - Save modified **.env.local** file
+
+- README.md file was just edited manually.
